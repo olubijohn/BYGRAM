@@ -1,0 +1,238 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 16 Mar 2024 16:23:29 at https://bi-GramFinance/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+bi-GramFinance
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bit-terra.com/ -O1 "C:\Users\User\Desktop\BYGRAM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,bi-GramFinance
+bi-GramFinancebi-GramFinance
+	such as username/password authentication for websibi-GramFinancein this projectbi-GramFinance
+bi-GramFinancebi-GramFinance
+	do not share these files/folders if you want thesebi-GramFinanceto remain privatebi-GramFinance
+bi-GramFinancebi-GramFinance
+bi-GramFinancebi-GramFinance
+bi-GramFinancebi-GramFinance
+16:25:58	Warning: 	Warning: store application/octetbi-GramFinanceut scan: C:/Users/User/Desktop/BYGRAM/bit-terra.com/asbi-GramFinanceents/testimonial.svg
+bi-GramFinancebi-GramFinance
+16:25:58	Error: 	"Not Found" (404) at link https://bi-GramFinance/GET (from https://bit-terra.com/assets/js/vendor/modbi-GramFinancerespond-1.4.2.min.js)
+bi-GramFinancebi-GramFinance
+16:25:58	Error: 	"Not Found" (404) at link https://bi-GramFinance/images/favicon.png (from https://bit-terbi-GramFinance.php)
+bi-GramFinancebi-GramFinance
+16:27:46	Error: 	"Not Found" (404) at link https://bi-GramFinance/index.php (from https://bit-terra.com/signubi-GramFinance
+bi-GramFinancebi-GramFinance
+16:27:54	Error: 	"Not Found" (404) at link https://bi-GramFinance/user/login.html (from https://bit-terra.com/tbi-GramFinance
+bi-GramFinancebi-GramFinance
+16:27:54	Error: 	"Not Found" (404) at link https://bi-GramFinance/popper.js (from https://bit-terra.com/assetbi-GramFinanceootstrap.min.js)
+bi-GramFinancebi-GramFinance
+16:27:55	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/owl.video.play.png (from httbi-GramFinancea.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/fonts/flexslider-icon.eot (fbi-GramFinanceit-terra.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/fonts/flexslider-icon.eot? (from hbi-GramFinancerra.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/fonts/flexslider-icon.woff (from bi-GramFinanceerra.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/fonts/flexslider-icon.ttf (fbi-GramFinanceit-terra.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/css/fonts/flexslider-icon.svg (frbi-GramFinancet-terra.com/assets2/css/vendor.bundle.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a.svg (from https://bi-GramFinance/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a.png (from https://bi-GramFinance/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a-md.svg (from https://bit-bi-GramFinanceets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a-md.png (from https:bi-GramFinanceom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a-dark.svg (from httpbi-GramFinance.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-a-dark.png (from httpbi-GramFinance.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-line.svg (from https:bi-GramFinanceom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-line.png (from https:bi-GramFinanceom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-b.svg (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-b.png (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c.svg (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c.png (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c-light.svg (from httbi-GramFinancea.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c-light.png (from httbi-GramFinancea.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c-dark.svg (from httpbi-GramFinance.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-c-dark.png (from httpbi-GramFinance.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-d.svg (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-d.png (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-d2.svg (from https://bi-GramFinance/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-d2.png (from https://bibi-GramFinancessets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-e.svg (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-e.png (from https://bibi-GramFinancessets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-f.svg (from https://bibi-GramFinancessets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-f.png (from https://bit-tbi-GramFinancets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-f-footer.svg (from bi-GramFinanceerra.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/mask-f-footer.png (from httpsbi-GramFinancecom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-a.png (from https://bit-terrabi-GramFinancecss/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-a-sm.png (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-b.png (from https://bit-bi-GramFinanceets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-b-sm.png (from https://bit-bi-GramFinanceets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-c.png (from https://bit-terra.cobi-GramFinance/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-c-sm.png (from https://bibi-GramFinancessets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-d.png (from https://bbi-GramFinanceassets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-d-sm.png (from https:bi-GramFinanceom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-e.png (from httpsbi-GramFinancecom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-e-sm.png (from https://bit-bi-GramFinanceets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-f.png (from https:bi-GramFinanceom/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bi-GramFinance/assets2/images/shape-f-sm.pngbi-GramFinance//bit-terra.com/assets2/css/style.css?ver=192)
+bi-GramFinancebi-GramFinance
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-g.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-g-sm.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-h.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-h-sm.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-i.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-i-sm.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-m.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-n.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-o.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-p.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-q.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-r.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-s.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-s-sm.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-t.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-u.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-v.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-w.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-x.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-x-2.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-x-3.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-y.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z2.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-a2.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z3.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z4.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z6.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z6-sm.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/shape-z7.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/dot-a.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/dot-b.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/ui-shape-a.svg (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/ui-shape-b.svg (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/ui-shape-light-a.svg (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/ui-shape-light-b.svg (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/mask-line-a.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/mask-line-b.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/mask-line-c.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/mask-line-d.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-line-a.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-line-b.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-line-a-fill.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-line-c.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-fill.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/dot-c.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/light-ix.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/images/icons/icon-bg-a.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/images/icons/icon-bg-a2.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/images/icons/icon-bg-a3.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/line.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/hexagon.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-a-dark.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/assets2/images/polygon-a-light.png (from https://bit-terra.com/assets2/css/style.css?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/Error pJS - No image.src (from https://bit-terra.com/assets2/js/jquery.bundle.js?ver=192)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/logo.png (from https://bit-terra.com/forgot-password.php)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/WhitePaper.pdf (from https://bit-terra.com/forgot-password.php)
+
+16:27:56	Error: 	"Not Found" (404) at link https://bit-terra.com/logo.svg (from https://bit-terra.com/forgot-password.php)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 27 seconds : 328 links scanned, 220 files written (27140777 bytes overall) [17371525 bytes received at 65061 bytes/sec], 17240946 bytes transferred using HTTP compression in 237 files, ratio 40%, 8.6 requests per connection
+
+(107 errors, 1 warnings, 0 messages)
+

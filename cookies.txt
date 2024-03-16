@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bi-GramFinance	TRUE	/	FALSE	1999999999	PHPSESSID	1931bd791c88b8c39f9d0960af84d393
+
